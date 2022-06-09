@@ -30,7 +30,7 @@ spec:
 
         - name: client
 
-          image: stephengrider/multi-client
+          image: neha8888/multi-client
 
           ports:
 
